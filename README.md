@@ -1,4 +1,4 @@
-# Live link - https://fixerratask.netlify.app/leaderboard
+# Live link - https://fixerratask.netlify.app/
 
 
 # Screenshots
